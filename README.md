@@ -1,4 +1,4 @@
-### NAME : SHRI RAAMA KRISHNANA J
+### NAME : SHRI RAAMA KRISHNANA J ###
 ### REG NO : 24900816
 ### EXP NO 1: STUDY OF BASIC GATES
 
@@ -23,7 +23,7 @@ Y= A.B
 
 ### OR GATE
 
-The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation.
+The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation
 Y= A+B
 
 ### NOT GATE
